@@ -45,9 +45,13 @@ class _CalculatorPageState extends State<Calculator> {
       appBar: AppBar(
         title: Text(
           'حاسبة',
+<<<<<<< HEAD
           style: TextStyle(color: Colors.red),
+=======
+          style: TextStyle(color: Colors.black),
+>>>>>>> d41c6be7c699aa5ecf7898aa78440926c0b453af
         ),
-        backgroundColor: Colors.black,
+        backgroundColor: Colors.blue,
       ),
       body: Container(
         color: Colors.green,
