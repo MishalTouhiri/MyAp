@@ -44,7 +44,7 @@ class _CalculatorPageState extends State<Calculator> {
     return Scaffold(
       appBar: AppBar(
         title: Text(
-          'حاسبة',
+          'الآلة الحاسبة',
           style: TextStyle(color: Colors.red),
         ),
         backgroundColor: Colors.black,
